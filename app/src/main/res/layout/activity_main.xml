@@ -1,7 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:background="#bfbfbf"
+    android:background="#c7c7c7"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
@@ -9,6 +9,7 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#00000"
         android:id="@+id/imageButton"
         android:src="@drawable/Starbucks"
         android:layout_marginTop="33dp"
@@ -47,6 +48,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageButton2"
         android:layout_marginTop="32dp"
+        android:background="#00000"
         android:src="@drawable/Tim_Hortons"
         android:layout_below="@+id/imageButton"
         android:layout_alignStart="@+id/imageButton" />
