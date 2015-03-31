@@ -10,4 +10,5 @@
         <item>Calgary</item>
         <item>Vancouver</item>
     </string-array>
+    <string name="title_activity_page2">page2</string>
 </resources>
