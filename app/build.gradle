@@ -5,7 +5,11 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.shahab123.waitingtimecalculator"
+=======
+        applicationId "com.example.shahab.waitingtimecalculator"
+>>>>>>> origin/master
         minSdkVersion 18
         targetSdkVersion 21
         versionCode 1
