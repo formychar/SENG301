@@ -12,5 +12,9 @@
         <item>Calgary</item>
         <item>Vancouver</item>
     </string-array>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+    <string name="title_activity_page2">page2</string>
 >>>>>>> origin/master
 </resources>
